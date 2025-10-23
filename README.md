@@ -26,6 +26,9 @@ A **real-time emoji face detector** using Python, OpenCV, and DeepFace. This pro
 git clone https://github.com/<your-username>/emoji-face-detector.git
 cd emoji-face-detector
 
+2️⃣ Create and activate a virtual environment (optional but recommended)
+```bash
+
 # On Windows
 python -m venv .venv
 .venv\Scripts\Activate.ps1
