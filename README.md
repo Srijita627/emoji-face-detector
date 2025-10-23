@@ -39,7 +39,7 @@ python -m venv .venv
 source .venv/bin/activate
 ```
 ---
-##Install Dependencies
+###Install Dependencies
 ```bash
 
 pip install -r requirements.txt
@@ -47,7 +47,7 @@ pip install -r requirements.txt
 ---
 
 
-##PROJECT STRUCTURE
+###PROJECT STRUCTURE
 ```bash
 
 emoji-face-detector/
@@ -63,7 +63,7 @@ emoji-face-detector/
 
 ```
 ---
-##USAGE
+###USAGE
 ```bash
 python app.py
 
@@ -77,8 +77,9 @@ pip install -r requirements.txt
 ---
 
 ##MIT License
-
+```
 Copyright (c) 2025 Srijita Datta
+```
 ---
 
 Made with ❤️ by **Srijita Datta**  
